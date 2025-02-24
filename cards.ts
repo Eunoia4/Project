@@ -177,6 +177,14 @@ const wbc1 : Card = {color : "wild", numbering : "unassigned", special : "blank-
 const wbc2 : Card = {color : "wild", numbering : "unassigned", special : "blank-card"};
 const wbc3 : Card = {color : "wild", numbering : "unassigned", special : "blank-card"};
 
+export const deck : Deck = [
+r00,r10,r20,r30,r40,r50,r60,r70,r80,r90,r11,r21,r31,r41,r51,r61,r71,r81,r91,rsc0,rsc1,rrc0,rrc1,rdc0,rdc1,
+y00,y10,y20,y30,y40,y50,y60,y70,y80,y90,y11,y21,y31,y41,y51,y61,y71,y81,y91,ysc0,ysc1,yrc0,yrc1,ydc0,ydc1,
+b00,b10,b20,b30,b40,b50,b60,b70,b80,b90,b11,b21,b31,b41,b51,b61,b71,b81,b91,bsc0,bsc1,brc0,brc1,bdc0,bdc1,
+g00,g10,g20,g30,g40,g50,g60,g70,g80,g90,g11,g21,g31,g41,g51,g61,g71,g81,g91,gsc0,gsc1,grc0,grc1,gdc0,gdc1,
+wwc0,wwc1,wwc2,wwc3,wwd0,wwd1,wwd2,wwd3,wbc0,wbc1,wbc2,wbc3
+];
+
 
 
 
